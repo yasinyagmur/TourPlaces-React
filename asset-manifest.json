@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tourplaces-react/static/css/main.77e0853c.css",
+    "main.js": "/tourplaces-react/static/js/main.defed4ca.js",
+    "static/js/787.0da3a921.chunk.js": "/tourplaces-react/static/js/787.0da3a921.chunk.js",
+    "index.html": "/tourplaces-react/index.html",
+    "main.77e0853c.css.map": "/tourplaces-react/static/css/main.77e0853c.css.map",
+    "main.defed4ca.js.map": "/tourplaces-react/static/js/main.defed4ca.js.map",
+    "787.0da3a921.chunk.js.map": "/tourplaces-react/static/js/787.0da3a921.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77e0853c.css",
+    "static/js/main.defed4ca.js"
+  ]
+}
